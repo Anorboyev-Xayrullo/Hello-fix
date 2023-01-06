@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.rus{
+    font-weight: 700;
+font-size: 30px;
+line-height: 34px;
+color: #000000;
+margin-left: 100px;
+}
+.otpravit{
+    font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+margin-left: 20px;
+}
+.zapros{
+    width: 200px;
+height: 40px;
+border: 2px solid #3F69FF;
+border-radius: 5px;
+}
+.lola{
+    text-align: center;
+    display: flex;
+}
+.bek{
+    display: flex;
+    margin-left: 50px;  
+}
+.aas{
+    margin-left: 20px;
+}
+.list{
+    margin-top: 40px;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+.list_item{
+    text-decoration: none;
+    margin-left: 30px;
+}
+.phone{
+    margin-left: 30px;
+}
+.fa-solid{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.uzb{
+    margin-left: 10px;
+}
+.main{
+    margin-left: 30px;
+}
+.Left-text{
+    color: #fff;
+    font-weight: 700;
+font-size: 30px;
+line-height: 40px;
+}
+.katalog{
+    width: 204px;
+height: 43px;
+left: 445px;
+top: 478px;
+border: none;
+color: #fff;
+background: #3F69FF;
+border-radius: 5
+}
+.positionLeft {
+    position: absolute;
+    padding-top: 100px;
+    top: 0;
+}
+.positionRight {
+    position: absolute;
+    padding-top: 100px;
+    top: 0;
+}
+
+.klategotiy{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+color: #000000;
+}
+.hayot{
+    margin-left: 40px;
+    font-weight: 700;
+font-size: 30px;
+line-height: 34px;
+color: #282828;
+}
+.klass{
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 34px;
+    color: #282828;
+}
+.klass1{
+    margin-top: 35px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 34px;
+    color: #282828;
+}
+.klass2{
+    margin-top: 35px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 34px;
+    color: #282828;
+}
+.klass3{
+    margin-top: 70px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 34px;
+    color: #282828;
+}
+.cat{
+    margin-top: 10px;
+}
+.kalla{
+    text-align: center;
+    padding-top:  80px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.fdgh{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.lokll{
+    margin-left: 100px;
+}
+.kjsdkoj{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.zaprosit{
+    text-align: center;
+    padding-top: 50px;
+    font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+color: #000000;
+}
+.polycit{
+    font-weight: 400;
+font-size: 24px;
+line-height: 44px;
+color: #000000;
+}
+.bolalar{
+    margin-top: 58px;
+}
+.layal{
+    margin-top: 70px;
+}
+.grop58{
+    margin-top: 70px;
+}
+.grp66{
+    margin-top: 70px;
+}
+.alisher{
+    margin-top: 60px;
+}
+.sms{
+    width: 200px;
+height: 50px;
+left: 879px;
+top: 2022px;
+color: #fff;
+background: #3F69FF;
+border-radius: 5px
+}
+.brend{
+    padding-top: 100px;
+    text-align: center;
+    font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+color: #000000;
+}
+.jaska{
+    margin-left: 50px;
+}
+.navo{
+    padding-top: 100px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    color: #000000;
+}
+.lolat{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.lolat1{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.predlojen{
+    padding-top: 100px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+.doston{
+    text-align: center;
+    display: flex;
+    background: #07032E;
+}
+.cola{
+    display: flex;
+    color: #fff;
+}
+.smotrit{
+    padding-top: 50px;
+    text-align: center;
+    font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+color: #000000;
+}
+.gentra{
+    display: flex;
+}
+.korzina{
+    width: 125px;
+height: 40px;
+left: 324px;
+top: 4128px;
+background: #3F69FF;
+border-radius: 2px;
+margin-left: 10px;
+color: #fff;
+margin-top: -5px;
+}
+.bezol{
+    padding-top: 100px;
+    font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+color: #000000;
+}
+.number{
+    padding-top: 100px;
+}
+.optika{
+    padding-top: 100px;
+    display: flex;
+}
+.facebook{
+    padding-top: 100px;
+    display: flex;
+}
+.fa-facebook{
+    margin-left: 10px;
+}
+.fa-square-whatsapp{
+    margin-left: 10px;
+}
+.fa-square-instagram{
+    margin-left: 10px;
+}
+.nas{
+    font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
+}
+footer{
+    background: #232323;
+}
+.informasiya{
+    padding-top: 50px;
+    font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+color: #FFFFFF;
+}
+.kartoon{
+    padding-top: 70px;
+}
+.nasi{
+    padding-top: 20px;
+    color: #fff;
+}
